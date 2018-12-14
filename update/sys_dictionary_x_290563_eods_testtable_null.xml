@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-12-14 14:19:08</sys_created_on>
-        <sys_id>e28dca36db9a2300a7c8771c8c9619e5</sys_id>
+        <sys_id>f4f4563adb12230060c1bd5139961908</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_290563_eods_testtable</sys_name>
         <sys_package display_value="EODS" source="x_290563_eods">d1091eaedb522300a7c8771c8c961980</sys_package>
         <sys_policy/>
         <sys_scope display_value="EODS">d1091eaedb522300a7c8771c8c961980</sys_scope>
-        <sys_update_name>sys_dictionary_x_290563_eods_testtable_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-14 14:19:08</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_290563_eods_testtable_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-12-14 14:51:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
